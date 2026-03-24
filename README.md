@@ -33,7 +33,7 @@ Para fins de teste, você pode ativar a opção "Run with Azure Spot discount", 
 
 Selecione um size compatível com os recursos disponibilizados pela conta gratuita.A opção padrão de escolha não é compatíveçl. Vá em "all sizes" e selecione a opção abaixo.
 
-![discount info](size.png)
+![discount info](images/5-size.png)
 
 ## Passo 6
 
